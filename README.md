@@ -53,3 +53,6 @@ Ensure these environment variables are set correctly before running the server.
 
 ## API Documentation
 Access the Swagger UI for API documentation at `/api-docs` after starting the server.
+
+## Known Issues 
+On initial load of the application, there seems to be accessing issues that does not populate the notes immediately. I was under the impression this was due to the server hosting, upon further inspection I am perhaps mistaken. Currently focusing on this cause this affects QoL of the app. 
